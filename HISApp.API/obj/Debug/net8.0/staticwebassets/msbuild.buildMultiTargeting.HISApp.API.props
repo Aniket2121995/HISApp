@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\HISApp.API.props" />
+</Project>

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3pCCAF0ndc/XdT18eRYeDljJ+D2hes1hT92o2ljyVG0=",
+  "Source": "HISApp.API",
+  "BasePath": "_content/HISApp.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
